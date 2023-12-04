@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Talodhikar</h1>
 <h3 align="center">A passionate Software/DevOps Engineer from India</h3>
 
-- 🌱 I’m currently Exploring **AWS, DevOps**
+ **AWS, DevOps**
 
 - 📫 How to reach me **gauravtalodhikar62@gmail.com**
 
