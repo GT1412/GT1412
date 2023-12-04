@@ -1,5 +1,5 @@
 ### Hi there 👋
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![GAURAV TALODHIKAR](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]![Mobile Numbe : 9765538461](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]![Email : gauravtalodhikar62@gmail.com](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 <!--
 **GT1412/GT1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
