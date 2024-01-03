@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gauravtalodhikar62@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/168WLCsqthYc_D71oAVE5cUvSImNjXqKh/view?usp=drive_link](https://drive.google.com/file/d/168WLCsqthYc_D71oAVE5cUvSImNjXqKh/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16gio7L9gAU5z1URj_gWYJjs8eAc-1p1c/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
